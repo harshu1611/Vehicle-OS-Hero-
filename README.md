@@ -14,6 +14,8 @@ An AI connected platform to be installed in two wheeler vehicles, for sending TC
 - qualitative_Random_forest.ipynb for qualitative analysis using Random Forest.
 
 
+# Figma Link Dashboard
+[Figma link to Dashboard](https://www.figma.com/file/ipCjJfo9QU60dQyRKKgmwW/Hero-(HCC-S9)-Team-The-Cosmos-Prototype-UI?type=design&node-id=0%3A1&mode=design&t=AFVqmFVDbzsIjM3j-1)
 
 # Outputs of Vehicle Health Model (LSTM): 
 
