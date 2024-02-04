@@ -13,7 +13,7 @@ An AI connected platform to be installed in two wheeler vehicles, for sending TC
   vehicle_Health_LSTM_Model.ipynb is the Code/Model Which Tells the Vehicle Health.
 
   qualitative_Random_forest.ipynb for qualitative analysis using Random Forest.
-<span style="color:blue">some <em>blue</em> text</span>.</p>
+<span style="color:blue">Hey I am Raj *blue* text</span>.
 </p>
 
 # Outputs of Vehicle Health Model (LSTM): 
