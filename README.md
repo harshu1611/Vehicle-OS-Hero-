@@ -34,7 +34,7 @@ An AI connected platform to be installed in two wheeler vehicles, for sending TC
 
 
 # Qualitative Output:
-- 1)
+
 ![Screenshot 2024-02-05 at 12 58 02 AM](https://github.com/harshu1611/Vehicle-OS-Hero-/assets/91799854/608700cb-f718-4149-9b98-4a21ebc9a7ab)
 
 ![chart (2)](https://github.com/harshu1611/Vehicle-OS-Hero-/assets/91799854/db300db1-1110-4614-9a39-8f74d7d40ea6)
