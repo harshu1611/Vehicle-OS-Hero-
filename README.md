@@ -5,17 +5,21 @@
 An AI connected platform to be installed in two wheeler vehicles, for sending TCU data to the cloud and database, and for managing multiple drivers for a vehicle.
 
 # Files Description:
-  <p>
-<span style="color:red">
-  "VOS.ui.qml" is the OS(Operating System File) for 2 Wheelers Dashboard.
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
-  tcu_data.csv is the data-set of data coming from TCU to cloud.
 
-  vehicle_Health_LSTM_Model.ipynb is the Code/Model Which Tells the Vehicle Health.
+- "VOS.ui.qml" is the OS(Operating System File) for 2 Wheelers Dashboard.
+- tcu_data.csv is the data-set of data coming from TCU to cloud.
+- vehicle_Health_LSTM_Model.ipynb is the Code/Model Which Tells the Vehicle Health.
+- qualitative_Random_forest.ipynb for qualitative analysis using Random Forest.
 
-  qualitative_Random_forest.ipynb for qualitative analysis using Random Forest.
-</span>
-</p>
+
 
 # Outputs of Vehicle Health Model (LSTM): 
 
